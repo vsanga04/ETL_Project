@@ -1,101 +1,101 @@
-,RatingTomatometer,Title
-0,99%,It Happened One Night
-1,98%,Modern Times
-2,96%,Black Panther
-3,99%,The Wizard of Oz
-4,99%,Citizen Kane
-5,98%,Parasite (Gisaengchung
-6,94%,Avengers: Endgame
-7,99%,Casablanca
-8,97%,Knives Out
-9,93%,Us
-10,97%,Toy Story
-11,99%,Lady Bird
-12,97%,Mission: Impossible - Fallout
-13,96%,BlacKkKlansman
-14,98%,Get Out
-15,95%,The Irishman
-16,97%,The Godfather
-17,97%,Mad Max: Fury Road
-18,97%,Spider-Man: Into the Spider-Verse
-19,99%,All About Eve
-20,98%,Moonlight
-21,93%,Wonder Woman
-22,100%,Rebecca
-23,90%,A Star Is Born
-24,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari
-25,98%,Inside Out
-26,96%,A Quiet Place
-27,99%,Eighth Grade
-28,95%,Roma
-29,96%,Booksmart
-30,92%,Dunkirk
-31,97%,Coco
-32,97%,A Night at the Opera
-33,98%,Portrait of a Lady on Fire (Portrait de la jeune fille en feu
-34,99%,Selma
-35,97%,The Farewell
-36,92%,The Shape of Water
-37,93%,Thor: Ragnarok
-38,97%,Spotlight
-39,100%,Seven Samurai (Shichinin no Samurai
-40,99%,The Third Man
-41,97%,La Grande illusion (Grand Illusion
-42,94%,Arrival
-43,100%,Singin' in the Rain
-44,93%,The Favourite
-45,96%,An American in Paris
-46,93%,Logan
-47,98%,Snow White and the Seven Dwarfs
-48,99%,On the Waterfront
-49,98%,All Quiet on the Western Front
-50,97%,Double Indemnity
-51,94%,Marriage Story
-52,98%,The Big Sick
-53,98%,E.T. The Extra-Terrestrial
-54,90%,Star Wars: The Last Jedi
-55,93%,Star Wars: Episode VII - The Force Awakens
-56,97%,Boyhood
-57,98%,The Best Years of Our Lives
-58,100%,The Adventures of Robin Hood
-59,95%,12 Years a Slave
-60,96%,Manchester by the Sea
-61,85%,Once Upon a Time In Hollywood
-62,96%,Argo
-63,100%,Leave No Trace
-64,100%,The Kid
-65,91%,La La Land
-66,97%,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire"
-67,98%,Alien
-68,90%,Spider-Man: Far From Home
-69,93%,Incredibles
-70,98%,King Kong
-71,100%,Laura
-72,94%,Call Me by Your Name
-73,96%,Psycho
-74,98%,Zootopia
-75,100%,Shadow of a Doubt
-76,94%,War for the Planet of the Apes
-77,99%,Paddington
-78,95%,Gravity
-79,89%,
-80,100%,The Maltese Falcon
-81,96%,The Florida Project
-82,99%,Sunset Boulevard
-83,91%,Widows
-84,98%,A Hard Day's Night
-85,91%,The Invisible Man
-86,96%,"The Godfather, Part II"
-87,99%,The Battle of Algiers (La Battaglia di Algeri
-88,92%,Baby Driver
-89,92%,Spider-Man: Homecoming
-90,99%,North by Northwest
-91,100%,Top Hat
-92,99%,Never Rarely Sometimes Always
-93,96%,Pain and Glory (Dolor y gloria
-94,98%,Schindler's List
-95,100%,The Philadelphia Story
-96,99%,Shoplifters (Manbiki kazoku
-97,100%,M
-98,97%,Metropolis
-99,98%,Jaws
+,Rank,RatingTomatometer,Title,No. of Reviews
+0,1.0,99%,It Happened One Night (1934),97
+1,2.0,98%,Modern Times (1936),108
+2,3.0,96%,Black Panther (2018),521
+3,4.0,99%,Citizen Kane (1941),117
+4,5.0,99%,The Wizard of Oz (1939),145
+5,6.0,98%,Parasite (Gisaengchung) (2019),458
+6,7.0,94%,Avengers: Endgame (2019),541
+7,8.0,99%,Casablanca (1942),122
+8,9.0,97%,Knives Out (2019),464
+9,10.0,93%,Us (2019),549
+10,11.0,97%,Toy Story 4 (2019),450
+11,12.0,99%,Lady Bird (2017),395
+12,13.0,97%,Mission: Impossible - Fallout (2018),434
+13,14.0,96%,BlacKkKlansman (2018),444
+14,15.0,98%,Get Out (2017),394
+15,16.0,95%,The Irishman (2019),452
+16,17.0,97%,The Godfather (1972),132
+17,18.0,97%,Mad Max: Fury Road (2015),426
+18,19.0,97%,Spider-Man: Into the Spider-Verse (2018),390
+19,20.0,99%,All About Eve (1950),100
+20,21.0,100%,The Philadelphia Story (1940),101
+21,22.0,98%,Moonlight (2016),390
+22,23.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),67
+23,24.0,93%,Wonder Woman (2017),465
+24,25.0,90%,A Star Is Born (2018),525
+25,26.0,100%,Rebecca (1940),94
+26,27.0,98%,Inside Out (2015),374
+27,28.0,96%,A Quiet Place (2018),386
+28,29.0,99%,Eighth Grade (2018),316
+29,30.0,95%,Roma (2018),396
+30,31.0,96%,Booksmart (2019),372
+31,32.0,98%,Rear Window (1954),122
+32,33.0,92%,Dunkirk (2017),461
+33,34.0,97%,Coco (2017),349
+34,35.0,97%,A Night at the Opera (1935),69
+35,36.0,98%,Portrait of a Lady on Fire (Portrait de la jeune fille en feu) (2020),315
+36,37.0,99%,Selma (2014),312
+37,38.0,92%,The Shape of Water (2017),454
+38,39.0,97%,The Farewell (2019),341
+39,40.0,93%,Thor: Ragnarok (2017),432
+40,41.0,97%,Spotlight (2015),372
+41,42.0,100%,Seven Samurai (Shichinin no Samurai) (1956),86
+42,43.0,99%,The Third Man (1949),83
+43,44.0,97%,La Grande illusion (Grand Illusion) (1938),67
+44,45.0,94%,Arrival (2016),431
+45,46.0,100%,Singin' in the Rain (1952),64
+46,47.0,93%,The Favourite (2018),416
+47,48.0,96%,An American in Paris (1951),94
+48,49.0,98%,All Quiet on the Western Front (1930),81
+49,50.0,93%,Logan (2017),419
+50,51.0,98%,Snow White and the Seven Dwarfs (1937),53
+51,52.0,97%,Double Indemnity (1944),92
+52,53.0,94%,Marriage Story (2019),388
+53,54.0,98%,E.T. The Extra-Terrestrial (1982),133
+54,55.0,98%,The Big Sick (2017),303
+55,56.0,90%,Star Wars: The Last Jedi (2017),477
+56,57.0,99%,On the Waterfront (1954),102
+57,58.0,93%,Star Wars: Episode VII - The Force Awakens (2015),441
+58,59.0,97%,North by Northwest (1959),109
+59,60.0,97%,Boyhood (2014),325
+60,61.0,98%,The Best Years of Our Lives (1946),88
+61,62.0,100%,The Adventures of Robin Hood (1938),48
+62,63.0,95%,12 Years a Slave (2013),371
+63,64.0,96%,Manchester by the Sea (2016),351
+64,65.0,96%,Argo (2012),358
+65,66.0,85%,Once Upon a Time In Hollywood (2019),564
+66,67.0,100%,Leave No Trace (2018),238
+67,68.0,100%,The Kid (1921),45
+68,69.0,91%,La La Land (2016),464
+69,70.0,97%,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",67
+70,71.0,98%,Alien (1979),126
+71,72.0,98%,King Kong (1933),65
+72,73.0,90%,Spider-Man: Far From Home (2019),449
+73,74.0,93%,Incredibles 2 (2018),383
+74,75.0,98%,Zootopia (2016),294
+75,76.0,100%,Laura (1944),65
+76,77.0,94%,Call Me by Your Name (2018),359
+77,78.0,96%,Psycho (1960),104
+78,79.0,100%,Shadow of a Doubt (1943),48
+79,80.0,94%,War for the Planet of the Apes (2017),359
+80,81.0,99%,Paddington 2 (2018),246
+81,82.0,95%,Gravity (2013),355
+82,83.0,100%,The Maltese Falcon (1941),58
+83,84.0,96%,The Florida Project (2017),313
+84,85.0,99%,Sunset Boulevard (1950),71
+85,86.0,89%,1917 (2020),454
+86,87.0,91%,Widows (2018),417
+87,88.0,98%,A Hard Day's Night (1964),109
+88,89.0,91%,The Invisible Man (2020),408
+89,90.0,96%,"The Godfather, Part II (1974)",114
+90,91.0,99%,The Battle of Algiers (La Battaglia di Algeri) (1967),89
+91,92.0,92%,Baby Driver (2017),392
+92,93.0,92%,Spider-Man: Homecoming (2017),391
+93,94.0,100%,Top Hat (1935),42
+94,95.0,99%,Never Rarely Sometimes Always (2020),227
+95,96.0,96%,Pain and Glory (Dolor y gloria) (2019),295
+96,97.0,98%,Schindler's List (1993),128
+97,98.0,99%,Shoplifters (Manbiki kazoku) (2018),226
+98,99.0,100%,M (1931),60
+99,100.0,97%,Metropolis (1927),133

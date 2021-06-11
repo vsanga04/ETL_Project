@@ -1,0 +1,101 @@
+,Movie,Tomatometer,Audience Score,IMDB score
+0,The Shawshank Redemption(1994),91%,98%,9.3
+1,The Godfather(1972),97%,98%,9.2
+2,The Dark Knight(2008),94%,94%,9.0
+3,The Godfather: Part II(1974),96%,97%,9.0
+4,12 Angry Men(1957),100%,97%,9.0
+5,The Lord of the Rings: The Return of the King(2003),93%,86%,8.9
+6,Pulp Fiction(1994),92%,96%,8.9
+7,Schindler's List(1993),98%,97%,8.9
+8,Inception(2010),87%,91%,8.8
+9,Fight Club(1999),79%,96%,8.8
+10,The Lord of the Rings: The Fellowship of the Ring(2001),91%,95%,8.8
+11,Forrest Gump(1994),71%,95%,8.8
+12,"The Good, the Bad and the Ugly(1966)",97%,97%,8.8
+13,The Lord of the Rings: The Two Towers(2002),95%,95%,8.7
+14,The Matrix(1999),88%,85%,8.7
+15,Goodfellas(1990),96%,97%,8.7
+16,Star Wars: Episode V - The Empire Strikes Back(1980),94%,97%,8.7
+17,One Flew Over the Cuckoo's Nest(1975),94%,96%,8.7
+18,Parasite(2019),98%,90%,8.6
+19,Interstellar(2014),72%,86%,8.6
+20,City of God(2002),91%,97%,8.6
+21,Spirited Away(2001),97%,96%,8.6
+22,Saving Private Ryan(1998),93%,95%,8.6
+23,The Green Mile(1999),78%,94%,8.6
+24,Life Is Beautiful(1997),80%,96%,8.6
+25,Se7en(1995),81%,95%,8.6
+26,The Silence of the Lambs(1991),96%,95%,8.6
+27,Star Wars: Episode IV - A New Hope(1977),92%,96%,8.6
+28,Hara-Kiri(1962),100%,97%,8.6
+29,Pather Panchali(1955),97%,94%,8.6
+30,Seven Samurai(1954),100%,97%,8.6
+31,It's a Wonderful Life(1946),94%,95%,8.6
+32,Whiplash(2014),94%,94%,8.5
+33,The Intouchables(2011),75%,93%,8.5
+34,The Prestige(2006),76%,92%,8.5
+35,The Departed(2006),90%,94%,8.5
+36,The Pianist(2002),95%,96%,8.5
+37,Gladiator(2000),77%,87%,8.5
+38,American History X(1998),83%,96%,8.5
+39,The Usual Suspects(1995),89%,96%,8.5
+40,Léon: The Professional(1994),74%,95%,8.5
+41,The Lion King(1994),93%,93%,8.5
+42,Terminator 2: Judgment Day(1991),93%,94%,8.5
+43,Cinema Paradiso(1988),90%,97%,8.5
+44,Grave of the Fireflies(1988),100%,95%,8.5
+45,Back to the Future(1985),96%,94%,8.5
+46,Once Upon a Time in the West(1968),95%,95%,8.5
+47,Psycho(1960),96%,95%,8.5
+48,Rear Window(1954),98%,95%,8.5
+49,Casablanca(1942),99%,95%,8.5
+50,Modern Times(1936),98%,95%,8.5
+51,City Lights(1931),98%,96%,8.5
+52,Hamilton(2020),97%,90%,8.4
+53,Capernaum(2018),90%,93%,8.4
+54,Joker(2019),68%,88%,8.4
+55,Your Name.(2016),98%,94%,8.4
+56,Spider-Man: Into the Spider-Verse(2018),97%,93%,8.4
+57,Avengers: Endgame(2019),94%,90%,8.4
+58,Avengers: Infinity War(2018),85%,91%,8.4
+59,Coco(I) (2017),97%,94%,8.4
+60,Django Unchained(2012),87%,91%,8.4
+61,The Dark Knight Rises(2012),87%,90%,8.4
+62,3 Idiots(2009),100%,93%,8.4
+63,Like Stars on Earth(2007),91%,96%,8.4
+64,WALL·E(2008),95%,90%,8.4
+65,The Lives of Others(2006),92%,96%,8.4
+66,Oldboy(2003),81%,94%,8.4
+67,Memento(2000),93%,94%,8.4
+68,Princess Mononoke(1997),93%,94%,8.4
+69,Once Upon a Time in America(1984),87%,93%,8.4
+70,Indiana Jones and the Raiders of the Lost Ark(1981),95%,96%,8.4
+71,The Shining(1980),84%,93%,8.4
+72,Apocalypse Now(1979),98%,94%,8.4
+73,Alien(1979),98%,94%,8.4
+74,High and Low(1963),95%,96%,8.4
+75,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb(1964),98%,94%,8.4
+76,Witness for the Prosecution(1957),100%,95%,8.4
+77,Paths of Glory(1957),95%,95%,8.4
+78,Sunset Blvd.(1950),99%,95%,8.4
+79,The Great Dictator(1940),93%,95%,8.4
+80,The Hunt(2012),93%,93%,8.3
+81,Inglourious Basterds(2009),89%,88%,8.3
+82,Eternal Sunshine of the Spotless Mind(2004),92%,94%,8.3
+83,Requiem for a Dream(2000),79%,93%,8.3
+84,American Beauty(1999),87%,93%,8.3
+85,Good Will Hunting(1997),98%,94%,8.3
+86,Toy Story(1995),100%,92%,8.3
+87,Braveheart(1995),78%,85%,8.3
+88,Reservoir Dogs(1992),92%,94%,8.3
+89,Come and See(1985),97%,95%,8.3
+90,Aliens(1986),97%,94%,8.3
+91,Amadeus(1984),93%,95%,8.3
+92,Star Wars: Episode VI - Return of the Jedi(1983),82%,94%,8.3
+93,Das Boot(1981),98%,96%,8.3
+94,2001: A Space Odyssey(1968),92%,89%,8.3
+95,North by Northwest(1959),97%,94%,8.3
+96,Vertigo(1958),94%,93%,8.3
+97,Singin' in the Rain(1952),100%,95%,8.3
+98,Citizen Kane(1941),99%,90%,8.3
+99,M(1931),100%,95%,8.3
