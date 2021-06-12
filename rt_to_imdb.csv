@@ -1,0 +1,101 @@
+IMDB Rank,Tomatometer,Movie,No. of Reviews,IMDB score
+1.0,99%,It Happened One Night (1934),97,8.1
+2.0,98%,Modern Times (1936),108,8.5
+3.0,96%,Black Panther (2018),521,7.3
+4.0,99%,Citizen Kane (1941),117,8.3
+5.0,99%,The Wizard of Oz (1939),145,8.0
+6.0,98%,Parasite (Gisaengchung) (2019),458,8.6
+7.0,94%,Avengers: Endgame (2019),541,8.4
+8.0,99%,Casablanca (1942),122,8.5
+9.0,97%,Knives Out (2019),464,7.9
+10.0,93%,Us (2019),549,6.8
+11.0,97%,Toy Story 4 (2019),450,7.7
+12.0,99%,Lady Bird (2017),395,7.4
+13.0,97%,Mission: Impossible - Fallout (2018),434,7.7
+14.0,96%,BlacKkKlansman (2018),444,7.5
+15.0,98%,Get Out (2017),394,7.7
+16.0,95%,The Irishman (2019),452,7.8
+17.0,97%,The Godfather (1972),132,9.2
+18.0,97%,Mad Max: Fury Road (2015),426,8.1
+19.0,97%,Spider-Man: Into the Spider-Verse (2018),390,8.4
+20.0,99%,All About Eve (1950),100,8.2
+21.0,100%,The Philadelphia Story (1940),101,7.9
+22.0,98%,Moonlight (2016),390,7.4
+23.0,99%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),67,8.1
+24.0,93%,Wonder Woman (2017),465,7.4
+25.0,90%,A Star Is Born (2018),525,7.6
+26.0,100%,Rebecca (1940),94,8.1
+27.0,98%,Inside Out (2015),374,8.1
+28.0,96%,A Quiet Place (2018),386,7.5
+29.0,99%,Eighth Grade (2018),316,7.4
+30.0,95%,Roma (2018),396,7.7
+31.0,96%,Booksmart (2019),372,7.2
+32.0,98%,Rear Window (1954),122,8.5
+33.0,92%,Dunkirk (2017),461,7.8
+34.0,97%,Coco (2017),349,8.4
+35.0,97%,A Night at the Opera (1935),69,7.9
+36.0,98%,Portrait of a Lady on Fire (Portrait de la jeune fille en feu) (2020),315,8.1
+37.0,99%,Selma (2014),312,7.5
+38.0,92%,The Shape of Water (2017),454,7.3
+39.0,97%,The Farewell (2019),341,7.6
+40.0,93%,Thor: Ragnarok (2017),432,7.9
+41.0,97%,Spotlight (2015),372,8.1
+42.0,100%,Seven Samurai (Shichinin no Samurai) (1956),86,8.6
+43.0,99%,The Third Man (1949),83,8.1
+44.0,97%,La Grande illusion (Grand Illusion) (1938),67,8.1
+45.0,94%,Arrival (2016),431,7.9
+46.0,100%,Singin' in the Rain (1952),64,8.3
+47.0,93%,The Favourite (2018),416,7.5
+48.0,96%,An American in Paris (1951),94,7.2
+49.0,98%,All Quiet on the Western Front (1930),81,8.1
+50.0,93%,Logan (2017),419,8.1
+51.0,98%,Snow White and the Seven Dwarfs (1937),53,7.6
+52.0,97%,Double Indemnity (1944),92,8.3
+53.0,94%,Marriage Story (2019),388,7.9
+54.0,98%,E.T. The Extra-Terrestrial (1982),133,7.8
+55.0,98%,The Big Sick (2017),303,7.5
+56.0,90%,Star Wars: The Last Jedi (2017),477,7.0
+57.0,99%,On the Waterfront (1954),102,8.1
+58.0,93%,Star Wars: Episode VII - The Force Awakens (2015),441,7.8
+59.0,97%,North by Northwest (1959),109,8.3
+60.0,97%,Boyhood (2014),325,7.9
+61.0,98%,The Best Years of Our Lives (1946),88,8.1
+62.0,100%,The Adventures of Robin Hood (1938),48,7.9
+63.0,95%,12 Years a Slave (2013),371,8.1
+64.0,96%,Manchester by the Sea (2016),351,7.8
+65.0,96%,Argo (2012),358,7.7
+66.0,85%,Once Upon a Time In Hollywood (2019),564,7.6
+67.0,100%,Leave No Trace (2018),238,7.2
+68.0,100%,The Kid (1921),45,8.3
+69.0,91%,La La Land (2016),464,8.0
+70.0,97%,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",67,7.9
+71.0,98%,Alien (1979),126,8.4
+72.0,98%,King Kong (1933),65,7.9
+73.0,90%,Spider-Man: Far From Home (2019),449,7.5
+74.0,93%,Incredibles 2 (2018),383,7.6
+75.0,98%,Zootopia (2016),294,8.0
+76.0,100%,Laura (1944),65,8.0
+77.0,94%,Call Me by Your Name (2018),359,7.9
+78.0,96%,Psycho (1960),104,8.5
+79.0,100%,Shadow of a Doubt (1943),48,7.8
+80.0,94%,War for the Planet of the Apes (2017),359,7.4
+81.0,99%,Paddington 2 (2018),246,7.8
+82.0,95%,Gravity (2013),355,7.7
+83.0,100%,The Maltese Falcon (1941),58,8.0
+84.0,96%,The Florida Project (2017),313,7.6
+85.0,99%,Sunset Boulevard (1950),71,8.4
+86.0,89%,1917 (2020),454,8.3
+87.0,91%,Widows (2018),417,6.9
+88.0,98%,A Hard Day's Night (1964),109,7.6
+89.0,91%,The Invisible Man (2020),408,7.1
+90.0,96%,"The Godfather, Part II (1974)",114,9.0
+91.0,99%,The Battle of Algiers (La Battaglia di Algeri) (1967),89,8.1
+92.0,92%,Baby Driver (2017),392,7.6
+93.0,92%,Spider-Man: Homecoming (2017),391,7.4
+94.0,100%,Top Hat (1935),42,7.8
+95.0,99%,Never Rarely Sometimes Always (2020),227,7.4
+96.0,96%,Pain and Glory (Dolor y gloria) (2019),295,7.5
+97.0,98%,Schindler's List (1993),128,8.9
+98.0,99%,Shoplifters (Manbiki kazoku) (2018),226,7.9
+99.0,100%,M (1931),60,8.3
+100.0,97%,Metropolis (1927),133,8.3
